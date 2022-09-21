@@ -29,7 +29,7 @@ public class CrearPago {   //CrearPago
 
          try {
 
-     MercadoPagoConfig.setAccessToken("TEST-5473799711250780-091621-9ea8893d8d31636192b1b3e34168d367-439173641");
+     MercadoPagoConfig.setAccessToken("cuentatestin...xxxxxxxxxxxxxxxxxxxx");
         PaymentClient client = new PaymentClient();
 
         List<PaymentItemRequest> items = new ArrayList<>();
