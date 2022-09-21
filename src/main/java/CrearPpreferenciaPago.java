@@ -21,7 +21,7 @@ import java.util.Map;
 public class CrearPpreferenciaPago {       //CrearPpreferenciaPago
     public static void main(String[] args) {
 
-        MercadoPagoConfig.setAccessToken("TEST-5473799711250780-091621-9ea8893d8d31636192b1b3e34168d367-439173641");
+        MercadoPagoConfig.setAccessToken("cuentatestin...xxxxxxxxxxxxxxxxxxxx");
 
         PreferenceClient client = new PreferenceClient();
 
